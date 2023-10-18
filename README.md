@@ -1,6 +1,6 @@
 # Gezondhied-hook
 
-Gezondhied-hook is a plugin for [Gezondheid](https://github.com/LiamEderzeel/gezondheid) to add webhooks on failing requests.
+Gezondhied-hook is a plugin for [Gezondheid](https://github.com/BobbieGoede/gezondheid) to add webhooks on failing requests.
 
 ## Usage
 
